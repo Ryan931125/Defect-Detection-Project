@@ -67,6 +67,7 @@ python eval03.py --json_path /path/to/Image_description_03.json --output_dir res
 - Mount Side is the easiest task across models.
 - Defect Detection best separates model quality.
 - Fine-grained counting remains difficult.
+- Llava models might still not be able to comphrehend the pictures, due to the absolutely low correct answer rates in component count, component type, and defect detection.
 
 ## Privacy
 
