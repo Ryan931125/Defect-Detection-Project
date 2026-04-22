@@ -7,7 +7,7 @@ Open-source VLM benchmark for PCB automatic optical inspection reasoning across 
 - 站立 (Tombstoning)
 - 翻件 (Flipped/Misoriented Component)
 
-![Example defect sample](image.png)
+<img src="image.png" alt="Example defect sample" width="75%" />
 
 ## Evaluation Details
 
@@ -22,7 +22,7 @@ Open-source VLM benchmark for PCB automatic optical inspection reasoning across 
 | LLaVA-1.5   |           32.22% |             31,442 |
 | LLaVA-1.6   |           24.36% |             31,442 |
 
-![Combined model comparison](assets/results/charts/heatmap_by_category.png)
+<img src="assets/results/charts/heatmap_by_category.png" alt="Combined model comparison" width="75%" />
 
 ## Example Focused Confusion Matrix
 
@@ -32,7 +32,7 @@ Single question + single model example:
 - Question: Defect Detection
 - On all splits
 
-![Focused confusion matrix (Qwen3-VL-8B, Defect Detection)](assets/results/confusion_matrices/focus/confusion_matrix_focus_all_qwen3_vl_8b_defect_detection.png)
+<img src="assets/results/confusion_matrices/focus/confusion_matrix_focus_all_qwen3_vl_8b_defect_detection.png" alt="Focused confusion matrix (Qwen3-VL-8B, Defect Detection)" width="75%" />
 
 ## Analysis
 
